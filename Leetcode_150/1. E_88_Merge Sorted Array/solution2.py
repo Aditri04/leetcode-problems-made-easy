@@ -12,4 +12,3 @@ class Solution:
             else:
                 nums1[nums1_cnt+nums2_cnt+1] = nums2[nums2_cnt]
                 nums2_cnt-=1
-            print(nums1)
