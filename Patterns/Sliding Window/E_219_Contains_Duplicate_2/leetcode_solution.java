@@ -17,3 +17,5 @@ class Solution {
         return false;
     }
 }
+
+//store at max k elements in the hashmap
